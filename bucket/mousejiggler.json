@@ -12,5 +12,6 @@
             "MouseJiggler.exe",
             "MouseJiggler"
         ]
-    ]
+    ],
+    "checkver": "github"
 }
