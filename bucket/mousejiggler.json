@@ -6,6 +6,7 @@
     "url": "https://github.com/arkane-systems/mousejiggler/releases/download/2.0.25/MouseJiggler-portable.zip",
     "hash": "efa7ae62584a7eca9a9f89956e251d2d8cbbda0284a407d3f3356041617d1fbc",
     "bin": "MouseJiggler.exe",
+    "extract_dir": "MouseJiggler-portable",
     "shortcuts": [
         [
             "MouseJiggler.exe",
